@@ -1,0 +1,8 @@
+
+Block Chain - 
+
+Blockchain is a method of recording information that makes it impossible or difficult for the system to be changed, hacked, or manipulated. It is a distributed ledger that duplicates and distributes transactions across the network of computers participating in it.
+
+In simpler words, the digital ledger is like a Google spreadsheet shared among numerous computers in a network, in which the transactional records are stored based on actual purchases. The fascinating angle is that anybody can see the data, but they can’t corrupt it.
+
+ 
